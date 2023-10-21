@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #333;
+}
+
+.choices {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+.choices img {
+    width: 100px;
+    margin: 0 10px;
+    cursor: pointer;
+}
+
+.result {
+    display: none;
+}
+
+.result h2 {
+    color: #333;
+}
+
+.result p, .result h3 {
+    color: #555;
+}
