@@ -40,3 +40,4 @@ function jogar(escolhaJogador) {
     
     resultado.style.display = "block";
 }
+
